@@ -4,5 +4,5 @@
 #third{height: 50px;border-width: 100px; border: 2px solid black ;transition:border-radius 8s}
 #first:hover{background-color:  black;}
 #second:hover{height: 500px;}
-#third:hover{border-radius: 200px ;}
+#third:hover{border-radius: 900px ;}
 #insane:hover{background-color: black;height: 500px;border-radius: 200px ;}
