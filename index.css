@@ -1,8 +1,6 @@
-#insane{height: 50px;transition: background-color 8s;transition: height 7s;border-width: 100px; border:2px solid black ;transition:border-radius 8s ;}
 #first{height: 50px;transition: background-color 8s; border: 2px solid black; transition-timing-function: ease-out;}
 #second{height: 50px;transition: height 7s; border: 2px solid black; transition-timing-function: ease-in;}
-#third{height: 50px;border-width: 100px; border: 2px solid black ;transition:border-radius 8s}
+#third{height: 50px;border-width: 100px; border: 2px solid black ;transition:border-radius 8s;}
 #first:hover{background-color:  black;}
 #second:hover{height: 500px;}
-#third:hover{border-radius: 900px ;}
-#insane:hover{background-color: black;height: 500px;border-radius: 200px ;}
+#third:hover{border-radius: 100% ;}
